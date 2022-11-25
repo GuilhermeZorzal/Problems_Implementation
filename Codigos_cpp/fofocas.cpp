@@ -1,4 +1,5 @@
 // 25/11/2022 = resolvido
+//https://codeforces.com/group/ZkeEs5BdJs/contest/404675/problem/A?f0a28=1
 
 #include <iostream>
 #include <bits/stdc++.h>
